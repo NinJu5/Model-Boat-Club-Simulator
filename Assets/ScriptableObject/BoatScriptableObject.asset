@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de320f235f7d60b42bc96504d80cd002, type: 3}
   m_Name: BoatScriptableObject
   m_EditorClassIdentifier: Assembly-CSharp::BoatScriptableObject
-  width: 190.1
-  length: 133.11
-  SpawningCount: 151
+  width: 35.6
+  length: 37.5
+  SpawningCount: 300
   boatHouseA: {fileID: 1138331384927246, guid: f4fd60554feb830408409b09d8c5f2d0, type: 3}
   boatHouseB: {fileID: 1138331384927246, guid: 9d1d0b91403a8814ab6853947579bad9, type: 3}
   boatHouseC: {fileID: 1138331384927246, guid: be18bd8f4343bb14daad0d183019b6aa, type: 3}
-  maxSpeed: 0.82
-  steeringSpeed: 0.1
-  maxForce: 0.095
-  neighborhoodRadius: 10
-  separationRadius: 4.01
-  separationAmount: 1.62
-  cohesionAmount: 1.84
-  alignmentAmount: 0
+  maxSpeed: 4.45
+  steeringSpeed: 15.8
+  maxForce: 0.155
+  neighborhoodRadius: 4.31
+  separationRadius: 4.38
+  separationAmount: 1.2
+  cohesionAmount: 1.35
+  alignmentAmount: 1.39
